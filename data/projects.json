@@ -1,0 +1,91 @@
+{
+    "projects": [{
+            "id": 1,
+            "title": "A Random Quote Generator",
+            "images": [
+                "/images/random_quote_generator.png"
+            ],
+            "links": {
+                "live_demo": "https://bunfong-random-quote-generator.herokuapp.com/index.html",
+                "github_repo": "https://github.com/BunFongUng/Random-Quote-Generator"
+            },
+            "description": "In this project, we'll create an app that displays random famous quotes each time a button is clicked. You will select your own quotes from famous historical figures, artists, scientists, celebrities, etc..",
+            "technologies": [
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "List Pagination and Filtering",
+            "images": [
+                "/images/list_pagination.png"
+            ],
+            "links": {
+                "live_demo": "https://bunfong-list-pagination.herokuapp.com/index.html",
+                "github_repo": "https://github.com/BunFongUng/List-Pagination"
+            },
+            "description": "In this project, we'll enhance the usability of a web page that is displaying way too much information all at once. Long lists don't make for a good user experience on a web page. To make it easier for the user to find information and read the page, you'll add to this project a popular web development technique known as pagination.",
+            "technologies": [
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Interactive Form",
+            "images": [
+                "/images/interactive_form.png"
+            ],
+            "links": {
+                "live_demo": "https://bunfong-interactive-form.herokuapp.com/index.html",
+                "github_repo": "https://github.com/BunFongUng/interactive-form"
+            },
+            "description": "In this project, we'll use JavaScript to enhance an interactive registration form for a fictional conference called 'FullStack Conf.'",
+            "technologies": [
+                "html",
+                "css",
+                "js",
+                "jquery"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "OOP Game Show App",
+            "images": [
+                "/images/game_show_app.png"
+            ],
+            "links": {
+                "live_demo": "https://bunfong-game-show-app.herokuapp.com/index.html",
+                "github_repo": "https://github.com/BunFongUng/game-show-app"
+            },
+            "description": "In this project, you'll create a browser-based, word guessing game: 'Phrase Hunter.' You’ll use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+            "technologies": [
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Public API Requests",
+            "images": [
+                "/images/public_api_requests.png"
+            ],
+            "links": {
+                "live_demo": "https://bunfong-public-api-requests.herokuapp.com/index.html",
+                "github_repo": "https://github.com/BunFongUng/public-api-requests"
+            },
+            "description": "For this project, we'll build an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.",
+            "technologies": [
+                "html",
+                "css",
+                "js",
+                "jquery",
+                "ajax"
+            ]
+        }
+    ]
+}

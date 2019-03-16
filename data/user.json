@@ -1,0 +1,32 @@
+{
+    "user_info": {
+        "full_name": "Bunfong Ung",
+        "phone_number": "098-436-723",
+        "email": "bunfong.ung@yahoo.com",
+        "role": "Back Developer",
+        "socail_links": [{
+            "link": "https://www.facebook.com/bun.fong.7",
+            "text": "Facebook"
+        }, {
+            "link": "https://www.linkedin.com/in/bunfong-ung-9b993a112/",
+            "text": "LinkedIn"
+        }, {
+            "link": "https://github.com/BunFongUng",
+            "text": "GitHub"
+        }],
+        "skills": [
+            "HTML",
+            "CSS",
+            "JS",
+            "NodeJS",
+            "ExpressJS",
+            "ReactJS",
+            "Angular",
+            "Bootstrap",
+            "PHP",
+            "Laravel",
+            "Python"
+        ],
+        "description": "I have already had some experiences with Web Development through my skill on PHP, MySQL, Codeigniter, HTML, CSS, JS, jQuery, Bootstrap, Foundation, Angular.JS, AJAX, JSON, Material Design Life, laravel, git and also WordPress. As you can find more detail in my curriculum vitae, I believe that the experience and my study background qualify me for the position that I am applying. And especially I am very interesting on doing web design and development and I am confident that I can learn new thing to improve my ability."
+    }
+}
